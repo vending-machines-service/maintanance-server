@@ -8,7 +8,11 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
-@Getter @Setter @NoArgsConstructor @ToString @EqualsAndHashCode
+@Getter 
+@Setter 
+@NoArgsConstructor 
+@ToString 
+@EqualsAndHashCode
 public class RecordDTO {
 	int machineId;
 	String sensorId;

@@ -10,7 +10,7 @@
 		<!-- lookup parent from repository -->
 	</parent>
 	<groupId>vms</groupId>
-	<artifactId>maintanance-server</artifactId>
+	<artifactId>vms-maintanance-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>maintanance-server</name>
 	<description>Demo project for Spring Boot</description>

@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "maintanance-server",
+                "projectName": "maintanance-server",
+                "workingDirectory": "/Users/viktordoroshenko/git/projects/vending-machine-service/vms-maintanance-server",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "maintanance-server",
+                "projectName": "maintanance-server",
+                "workingDirectory": "/Users/viktordoroshenko/git/projects/vending-machine-service/vms-maintanance-server",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

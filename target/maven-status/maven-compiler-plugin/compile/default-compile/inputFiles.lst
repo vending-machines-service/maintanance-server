@@ -1,0 +1,7 @@
+/Users/viktordoroshenko/git/projects/vending-machine-service/vms-maintanance-server/src/main/java/vms/maintananceserver/repository/MongoRecordRepository.java
+/Users/viktordoroshenko/git/projects/vending-machine-service/vms-maintanance-server/src/main/java/vms/maintananceserver/service/MaintananceService.java
+/Users/viktordoroshenko/git/projects/vending-machine-service/vms-maintanance-server/src/main/java/vms/maintananceserver/repository/RecordRepository.java
+/Users/viktordoroshenko/git/projects/vending-machine-service/vms-maintanance-server/src/main/java/vms/maintananceserver/jpa/RecordJPA.java
+/Users/viktordoroshenko/git/projects/vending-machine-service/vms-maintanance-server/src/main/java/vms/maintananceserver/dto/SensorDTO.java
+/Users/viktordoroshenko/git/projects/vending-machine-service/vms-maintanance-server/src/main/java/vms/maintananceserver/dto/RecordDTO.java
+/Users/viktordoroshenko/git/projects/vending-machine-service/vms-maintanance-server/src/main/java/vms/maintananceserver/MaintananceServerApplication.java

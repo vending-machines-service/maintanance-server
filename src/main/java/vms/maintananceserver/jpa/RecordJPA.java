@@ -14,7 +14,7 @@ import lombok.Setter;
 import lombok.ToString;
 
 @Entity
-@Table(name = "current_maintanance")
+@Table(name = "current_maintenence")
 @Getter
 @Setter
 @NoArgsConstructor
@@ -27,8 +27,10 @@ public class RecordJPA {
   int machineId;
   @Column(name = "sensor_id")
   int sensorId;
+  @Column(name = "date_open")
   LocalDate date;
   int value;
+  @Column(name = "user_id")
   int userId;
 
   public RecordJPA(int machineId, int sensorId, LocalDate date, int value, int userId) {

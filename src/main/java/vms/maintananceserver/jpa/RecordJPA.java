@@ -14,12 +14,12 @@ import lombok.Setter;
 import lombok.ToString;
 
 @Entity
-@Table(name = "current_maintenence")
 @Getter
 @Setter
 @NoArgsConstructor
 @ToString
 @EqualsAndHashCode
+@Table(name = "current_maintenance")
 public class RecordJPA {
   @Id
   String id;
@@ -29,6 +29,7 @@ public class RecordJPA {
   int sensorId;
   @Column(name = "date_open")
   LocalDate date;
+  @Column(name="value")
   int value;
   @Column(name = "user_id")
   int userId;
